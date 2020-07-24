@@ -1,0 +1,121 @@
+1.    1 What is diff between declaration and definition
+2.     int a;
+    Int x=10;
+    Extern int y;
+    In below statement what is declaration and what is definition?
+3.    what is diff between cal l by value and call by reference?
+4.    what is diff between function and macro?
+5.    what is the structure padding and how to avoid?
+6.     what are the storage classes in c ? and explain it?
+*7.    what is the volatile?
+8.    what is diff between struct and union?
+**9.    what is diff between malloc  and calloc?
+**10.    what is diff between macro and enum?
+**11.    what is diff between array and linked list?
+**12.    what is diff between static memory and dynamic memory?
+**13.    what is diff between  memcpy and memmov?
+**14.    what is diff between strcpy and memcpy?
+**15.    what is diff between array and structure?
+**16.    what is diff between  break and continue ?
+**17.    what is diff between char str[]=”hello”; and  char *p=”hello”;
+18.    write a program string copy?
+19.    write a program string reverse?
+20.     write a program string concatenation?
+**21.    write a program string reverse without third variable ?
+Hint : bitwise operator
+22.     write a program string duplication elements removing?
+(Hint char=”hi how are you ” now the ouput is like hi ow are yu )
+23.     write a program number of times the letter repeating in the string?
+**24.     write a program find the substring  within the string?
+**25.     write a program string reverse using recursion?
+26.     write a program  words reversing in string?
+Hint:  char str[] =”my book is cbook  ” output= “ym koob si koobc”
+**27.     write a program no  of  1’s and 0’s in given number?
+**28.     write a program ON and OFF particular position in given number?
+29.     write a program if particular position OFF then you ON in given number?
+30.     write a program swap nibbles in given number?
+31.     write a program number  reverse?
+Hint: int a=567: ouput 765;
+**32.     write a program Pascal triangle ?
+**33.     write a program pyramid?
+34.     write a program find second highest element in the array?
+35.     write a program moved a side 0’s and 1’s ?
+Hint : int a[]={ 0,1,1,0,1,0,0}; ouput: int a[]={0,0,0,0,1,1,1};
+36.     write a program without semicolon?
+**37.     write a program fibonoic series?
+38.    write a program factorial using recursion?
+39.    write a program middle node finding in the given linked list ?
+40.    write a program insertion a node in the given linked list?
+41.    write a program delete a node in the given linked list?
+42.    write a program insertion and deletion at middle node ?
+43.    write a program find the loop in the given linked list ?
+44.    write a program find from last to 5th node?
+45.    write a program insertion and deletion at particular position ?
+**46.    write a program find from last to 5th node using  only single loop?
+47.     write a program own atoi() function?
+48.    write a program addition two variables using command line arguments?
+49.    write a program  reverse linked list?
+50.     write a program reverse linked list using recursion?
+**51.    write a program bubble sort and merge sort?
+52.    write a program binary searching?
+**53.    declare function pointer ?
+**54.    declare array of pointer?
+**55.    declare pointer to array?
+*56.    declare array of three function pointers?
+57.    what is the diff between *Ptr++ and ++*Ptr
+**58.    what is the error in the given program
+#include<1.h>
+#include<1.h>
+Main(){
+Printf(“welcome to header files”);
+}
+**59.    write a two dimension array memory allocation?
+60.    what is diff between const char *q=”welcome”; and char const *s=”welcome”;
+**61.    char* const t=”welcome”    const char* const u=”welcome”;
+62.    what is memory segments in c?
+63.    what are the compilation steps?
+64.    what is mean by memory leak and write a program ?
+65.    what is dangling pointer and write a program?
+66.    what is segmentation problem and write a program?
+**67.    what void pointer;
+**68.    is it possible for changing the base address of array?
+**69.    what is diff between little endian and big endian?
+**70.    write a c program convert from big endian to little endian?
+71.    write a program to finding your system little endian and big endian?
+72.    write a program find the size of the variable without using sizeof Operator?
+73.    write a program the given string is palindrome or not?
+74.    write a program Armstrong number?
+75.    write a program interger value is palindrome or not?
+Hint : int a=151 output: 151
+76.    what is use of bit fields?
+77.    main()
+{
+Char *p;
+P=(char *) malloc (10);
+Strcpy(p,”welcome”);
+P=(chanr *) realloc(p,20);
+Printf(“%s”,p);
+}
+What is the output and explain what happend internally
+78.    is possible to change const variable?
+Hint:  by using pointer we can change
+79.    in which memory segment the const variable store?
+80.    what is default value of array?
+
+**81.    conversion from hex vs octal vs binary vs number
+82.    write a program that prints itself ?
+83.    write a program without main ?
+
+84.    Double linked list – priority insertion
+85.    Sort a list
+86.    Implement stacks logic
+87.    How strtok works ?
+88.    Implement own strtok function
+89.    Reverse a string using recursion
+90.    what is Environment variables envp/environ ?
+91.    pointer arithmetic ? post/pre-increment of pointer, double pointer ?
+92.    queue using arrays
+93.    queue using linked list
+94.    size of pointers, int *, char *, struct node *
+95.    How to find out the os architecture?
+        example 32 bit or 64 bit
